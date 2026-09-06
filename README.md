@@ -22,6 +22,10 @@ I like projects that make abstract architecture tangible. That usually means bui
 
 ### 01 · [homelab-infrastructure](https://github.com/casual-loops/homelab-infrastructure)
 
+[![Last Signal](https://img.shields.io/github/last-commit/casual-loops/homelab-infrastructure?style=flat-square&label=LAST%20SIGNAL&color=2f81f7)](https://github.com/casual-loops/homelab-infrastructure/commits/main)
+[![30D Signals](https://img.shields.io/github/commit-activity/m/casual-loops/homelab-infrastructure?style=flat-square&label=30D%20SIGNALS&color=6e40c9)](https://github.com/casual-loops/homelab-infrastructure/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/casual-loops/homelab-infrastructure?style=flat-square&label=OPEN%20ISSUES&color=58a6ff)](https://github.com/casual-loops/homelab-infrastructure/issues)
+
 A documented private infrastructure environment used as a systems engineering laboratory.
 
 `Proxmox` `Linux` `Docker` `Networking` `TLS` `Tailscale` `Checkmk` `Prometheus` `Grafana` `Backups`
@@ -30,6 +34,10 @@ Current work centers on service architecture, observability, secure access, reve
 
 ### 02 · [knowledge-vault-rag](https://github.com/casual-loops/knowledge-vault-rag)
 
+[![Last Signal](https://img.shields.io/github/last-commit/casual-loops/knowledge-vault-rag?style=flat-square&label=LAST%20SIGNAL&color=2f81f7)](https://github.com/casual-loops/knowledge-vault-rag/commits/main)
+[![30D Signals](https://img.shields.io/github/commit-activity/m/casual-loops/knowledge-vault-rag?style=flat-square&label=30D%20SIGNALS&color=6e40c9)](https://github.com/casual-loops/knowledge-vault-rag/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/casual-loops/knowledge-vault-rag?style=flat-square&label=OPEN%20ISSUES&color=58a6ff)](https://github.com/casual-loops/knowledge-vault-rag/issues)
+
 A private-first personal knowledge assistant built to understand retrieval-augmented generation from the ground up.
 
 `Python` `FastAPI` `PostgreSQL` `pgvector` `Docker` `Obsidian`
@@ -37,6 +45,10 @@ A private-first personal knowledge assistant built to understand retrieval-augme
 The project connects two interests I keep returning to: systems engineering and knowledge management.
 
 ### 03 · [esm-sql-analytics](https://github.com/casual-loops/esm-sql-analytics)
+
+[![Last Signal](https://img.shields.io/github/last-commit/casual-loops/esm-sql-analytics?style=flat-square&label=LAST%20SIGNAL&color=2f81f7)](https://github.com/casual-loops/esm-sql-analytics/commits/main)
+[![30D Signals](https://img.shields.io/github/commit-activity/m/casual-loops/esm-sql-analytics?style=flat-square&label=30D%20SIGNALS&color=6e40c9)](https://github.com/casual-loops/esm-sql-analytics/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/casual-loops/esm-sql-analytics?style=flat-square&label=OPEN%20ISSUES&color=58a6ff)](https://github.com/casual-loops/esm-sql-analytics/issues)
 
 Practical SQL analysis focused on answering operational data questions with reproducible queries and documentation.
 

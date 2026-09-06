@@ -91,9 +91,9 @@ CURRENT VECTOR
 
 ## // off orbit
 
-When I am not working on infrastructure or automation, I keep circling back to astronomy, knowledge management, and writing.
+When I am not working on infrastructure or automation, I keep circling back to astronomy, mathematics, and writing.
 
-I also write under **casual_loops**, which is where this identity started before it became my GitHub handle.
+I also enjoy taking my dog, Marvel, on adventures at nearby parks, trails, and lakes.
 
 ## // comms
 

@@ -42,12 +42,6 @@ Practical SQL analysis focused on answering operational data questions with repr
 
 `SQL` `Analytics` `Data`
 
-### 04 · [avela-file-export-utility](https://github.com/casual-loops/avela-file-export-utility)
-
-A small automation utility created to solve a real administrative workflow problem.
-
-`Python` `Automation` `File Processing`
-
 ## // telemetry
 
 | Vector | Status |

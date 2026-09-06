@@ -58,31 +58,34 @@ Practical SQL analysis focused on answering operational data questions with repr
 
 | Vector | Status |
 | --- | --- |
-| Linux | operating |
-| Python | building |
-| PowerShell | deepening |
-| Cloud | expanding |
-| Identity | engineering |
-| RAG | experimenting |
-| Automation | always |
-| Knowledge management | forever |
+| Linux | ![operating](https://img.shields.io/badge/OPERATING-7ee7ff?style=flat-square&labelColor=0d1117) |
+| Python | ![building](https://img.shields.io/badge/BUILDING-2f81f7?style=flat-square&labelColor=0d1117) |
+| PowerShell | ![deepening](https://img.shields.io/badge/DEEPENING-6e40c9?style=flat-square&labelColor=0d1117) |
+| Cloud | ![expanding](https://img.shields.io/badge/EXPANDING-58a6ff?style=flat-square&labelColor=0d1117) |
+| Identity | ![engineering](https://img.shields.io/badge/ENGINEERING-bc8cff?style=flat-square&labelColor=0d1117) |
+| RAG | ![experimenting](https://img.shields.io/badge/EXPERIMENTING-6e40c9?style=flat-square&labelColor=0d1117) |
+| Automation | ![always](https://img.shields.io/badge/ALWAYS-2f81f7?style=flat-square&labelColor=0d1117) |
+| Knowledge management | ![forever](https://img.shields.io/badge/FOREVER-7ee7ff?style=flat-square&labelColor=0d1117) |
 
 ## // systems
 
-```text
-INFRASTRUCTURE   Linux · Proxmox · Docker · Nginx · Tailscale
-OBSERVABILITY    Checkmk · Prometheus · Grafana
-DATA             PostgreSQL · pgvector · SQL
-ENGINEERING      Python · PowerShell · Git · FastAPI
-IDENTITY         IAM · SSO · Google Workspace · Entra ID
-KNOWLEDGE        Obsidian · RAG · Documentation
-```
+![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-58a6ff?style=flat-square&labelColor=0d1117) Linux · Proxmox · Docker · Nginx · Tailscale
+
+![Observability](https://img.shields.io/badge/OBSERVABILITY-7ee7ff?style=flat-square&labelColor=0d1117) Checkmk · Prometheus · Grafana
+
+![Data](https://img.shields.io/badge/DATA-2f81f7?style=flat-square&labelColor=0d1117) PostgreSQL · pgvector · SQL
+
+![Engineering](https://img.shields.io/badge/ENGINEERING-6e40c9?style=flat-square&labelColor=0d1117) Python · PowerShell · Git · FastAPI
+
+![Identity](https://img.shields.io/badge/IDENTITY-bc8cff?style=flat-square&labelColor=0d1117) IAM · SSO · Google Workspace · Entra ID
+
+![Knowledge](https://img.shields.io/badge/KNOWLEDGE-58a6ff?style=flat-square&labelColor=0d1117) Obsidian · RAG · Documentation
 
 ## // trajectory
 
-```text
-CURRENT VECTOR
+![Current Vector](https://img.shields.io/badge/CURRENT%20VECTOR-2f81f7?style=flat-square&labelColor=0d1117)
 
+```text
 → deeper Linux administration
 → Python for systems engineering
 → PowerShell beyond task automation
@@ -93,13 +96,17 @@ CURRENT VECTOR
 
 ## // operating principles
 
-```text
-01  Prefer evidence over assumptions.
-02  Automate repeatable work, document the edge cases.
-03  Monitoring should explain a system, not merely report that it exists.
-04  Good infrastructure is understandable infrastructure.
-05  The fastest way to learn a system is often to own its failure modes.
-```
+|  | Principle |
+| --- | --- |
+| ![01](https://img.shields.io/badge/01-7ee7ff?style=flat-square&labelColor=0d1117) | Prefer evidence over assumptions. |
+| ![02](https://img.shields.io/badge/02-2f81f7?style=flat-square&labelColor=0d1117) | Automate repeatable work, document the edge cases. |
+| ![03](https://img.shields.io/badge/03-6e40c9?style=flat-square&labelColor=0d1117) | Monitoring should explain a system, not merely report that it exists. |
+| ![04](https://img.shields.io/badge/04-7ee7ff?style=flat-square&labelColor=0d1117) | Good infrastructure is understandable infrastructure. |
+| ![05](https://img.shields.io/badge/05-2f81f7?style=flat-square&labelColor=0d1117) | The fastest way to learn a system is often to own its failure modes. |
+
+<p align="center">
+  <img src="./assets/orbit-divider.svg" alt="Orbital telemetry divider" width="100%" />
+</p>
 
 ## // off orbit
 

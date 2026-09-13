@@ -44,17 +44,7 @@ A private-first personal knowledge assistant built to understand retrieval-augme
 
 The project connects two interests I keep returning to: systems engineering and knowledge management.
 
-### 03 · [esm-sql-analytics](https://github.com/casual-loops/esm-sql-analytics)
-
-[![Last Signal](https://img.shields.io/github/last-commit/casual-loops/esm-sql-analytics?style=flat-square&label=LAST%20SIGNAL&color=2f81f7)](https://github.com/casual-loops/esm-sql-analytics/commits/main)
-[![30D Signals](https://img.shields.io/github/commit-activity/m/casual-loops/esm-sql-analytics?style=flat-square&label=30D%20SIGNALS&color=6e40c9)](https://github.com/casual-loops/esm-sql-analytics/commits/main)
-[![Open Issues](https://img.shields.io/github/issues/casual-loops/esm-sql-analytics?style=flat-square&label=OPEN%20ISSUES&color=58a6ff)](https://github.com/casual-loops/esm-sql-analytics/issues)
-
-Practical SQL analysis focused on answering operational data questions with reproducible queries and documentation.
-
-`SQL` `Analytics` `Data`
-
-### 04 · [domain-doctor](https://github.com/casual-loops/domain-doctor)
+### 03 · [domain-doctor](https://github.com/casual-loops/domain-doctor)
 
 [![Last Signal](https://img.shields.io/github/last-commit/casual-loops/domain-doctor?style=flat-square&label=LAST%20SIGNAL&color=2f81f7)](https://github.com/casual-loops/domain-doctor/commits/main)
 [![30D Signals](https://img.shields.io/github/commit-activity/m/casual-loops/domain-doctor?style=flat-square&label=30D%20SIGNALS&color=6e40c9)](https://github.com/casual-loops/domain-doctor/commits/main)

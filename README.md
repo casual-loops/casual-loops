@@ -58,39 +58,26 @@ Current work focuses on safe target validation, SSRF-resistant network checks, a
 
 ## // telemetry
 
-<p align="center">
-  <sub>MISSION CONTROL // LIVE GITHUB SIGNALS</sub>
-</p>
+My work spans more than source code. I build, operate, and document systems to understand how they behave when the real world gets involved.
 
 <p align="center">
-  <a href="https://github.com/casual-loops?tab=repositories">
+  <img src="./assets/telemetry-console.svg" alt="Mission Control telemetry console showing my engineering focus across infrastructure, identity, automation, observability, and knowledge systems" width="100%" />
+</p>
+
+<p align="center"><sub>LIVE FEED // GITHUB CONTRIBUTION ACTIVITY</sub></p>
+
+<p align="center">
+  <a href="https://github.com/casual-loops?tab=overview">
     <img
-      src="https://github-stats-extended.vercel.app/api?username=casual-loops&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=bc8cff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;custom_title=GitHub%20Activity"
-      alt="Casual Loops GitHub activity: stars, commits, pull requests, and issues"
-      height="180"
-    />
-  </a>
-  <a href="https://github.com/casual-loops?tab=repositories">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=casual-loops&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=bc8cff&amp;text_color=c9d1d9&amp;card_width=340&amp;custom_title=Language%20Signals"
-      alt="Most used languages across public Casual Loops repositories"
-      height="180"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=casual-loops&amp;bg_color=0d1117&amp;color=bc8cff&amp;line=58a6ff&amp;point=7ee7ff&amp;area_color=58a6ff&amp;area=true&amp;hide_border=true&amp;hide_title=true"
+      alt="GitHub contribution activity timeline for casual-loops"
+      width="100%"
     />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/casual-loops">
-    <img
-      src="https://streak-stats.demolab.com/?user=casual-loops&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=bc8cff&amp;fire=7ee7ff&amp;currStreakNum=bc8cff&amp;sideNums=58a6ff&amp;currStreakLabel=bc8cff&amp;sideLabels=c9d1d9&amp;dates=8b949e"
-      alt="Casual Loops total contributions, current streak, and longest streak"
-      width="500"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>PUBLIC REPOSITORY SIGNALS // LANGUAGE SHARE IS BASED ON CODE, NOT PROFICIENCY</sub>
+  <sub>PUBLIC GITHUB ACTIVITY IS ONE SIGNAL, NOT THE WHOLE SYSTEM</sub>
 </p>
 
 ## // systems

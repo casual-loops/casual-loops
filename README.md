@@ -58,30 +58,57 @@ Current work focuses on safe target validation, SSRF-resistant network checks, a
 
 ## // telemetry
 
-| Vector | Status |
-| --- | --- |
-| Linux | ![operating](https://img.shields.io/badge/OPERATING-7ee7ff?style=flat-square&labelColor=0d1117) |
-| Python | ![building](https://img.shields.io/badge/BUILDING-2f81f7?style=flat-square&labelColor=0d1117) |
-| PowerShell | ![deepening](https://img.shields.io/badge/DEEPENING-6e40c9?style=flat-square&labelColor=0d1117) |
-| Cloud | ![expanding](https://img.shields.io/badge/EXPANDING-58a6ff?style=flat-square&labelColor=0d1117) |
-| Identity | ![engineering](https://img.shields.io/badge/ENGINEERING-bc8cff?style=flat-square&labelColor=0d1117) |
-| RAG | ![experimenting](https://img.shields.io/badge/EXPERIMENTING-6e40c9?style=flat-square&labelColor=0d1117) |
-| Automation | ![always](https://img.shields.io/badge/ALWAYS-2f81f7?style=flat-square&labelColor=0d1117) |
-| Knowledge management | ![forever](https://img.shields.io/badge/FOREVER-7ee7ff?style=flat-square&labelColor=0d1117) |
+<p align="center">
+  <img src="./assets/telemetry-console.svg" alt="Casual Loops engineering telemetry masthead" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td width="56%" valign="top">
+      <p><strong>01 // REPOSITORY SIGNALS</strong></p>
+      <a href="https://github.com/casual-loops?tab=repositories">
+        <img src="https://github-stats-extended.vercel.app/api?username=casual-loops&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7ee7ff&amp;text_color=d6e2ee&amp;icon_color=58a6ff&amp;card_width=510&amp;custom_title=Repository%20Signals" alt="Total GitHub stars, commits, pull requests, issues, and contributions to other repositories in the last year" width="100%" />
+      </a>
+      <p><strong>02 // CONTRIBUTION CONTINUITY</strong></p>
+      <a href="https://github.com/casual-loops?tab=overview">
+        <img src="https://streak-stats.demolab.com/?user=casual-loops&amp;hide_border=true&amp;background=0d1117&amp;stroke=324054&amp;ring=7ee7ff&amp;fire=bc8cff&amp;currStreakNum=7ee7ff&amp;sideNums=58a6ff&amp;currStreakLabel=bc8cff&amp;sideLabels=c9d1d9&amp;dates=8b949e" alt="Total contributions, current contribution streak, and longest contribution streak on GitHub" width="100%" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <p><strong>03 // LANGUAGE FOOTPRINT</strong></p>
+      <a href="https://github.com/casual-loops?tab=repositories">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=casual-loops&amp;layout=normal&amp;langs_count=8&amp;card_width=405&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=bc8cff&amp;text_color=d6e2ee&amp;custom_title=Language%20Distribution" alt="Most used public repository languages with percentage breakdowns" width="100%" />
+      </a>
+      <p><sub>Language percentages reflect source code in public, non-fork repositories. They do not measure proficiency.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>PUBLIC GITHUB SIGNALS // METRICS UPDATE THROUGH THEIR SOURCE SERVICES</sub>
+</p>
 
 ## // systems
 
-![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-58a6ff?style=flat-square&labelColor=0d1117) Linux · Proxmox · Docker · Nginx · Tailscale
+A conceptual map of the technologies I use across infrastructure, engineering, identity, data, and knowledge work. These are areas of practice, not a diagram of a single deployed environment.
 
-![Observability](https://img.shields.io/badge/OBSERVABILITY-7ee7ff?style=flat-square&labelColor=0d1117) Checkmk · Prometheus · Grafana
+<p align="center">
+  <img src="./assets/systems-atlas.svg" alt="Systems atlas of six engineering domains, featuring Linux, Proxmox, Docker, Nginx, Tailscale, Python, PowerShell, Git, FastAPI, PostgreSQL, SQL, pgvector, IAM, SSO, Google Workspace, Entra ID, Checkmk, Prometheus, Grafana, Obsidian, RAG, and documentation" width="100%" />
+</p>
 
-![Data](https://img.shields.io/badge/DATA-2f81f7?style=flat-square&labelColor=0d1117) PostgreSQL · pgvector · SQL
+<details>
+  <summary><strong>View the stack as text</strong></summary>
 
-![Engineering](https://img.shields.io/badge/ENGINEERING-6e40c9?style=flat-square&labelColor=0d1117) Python · PowerShell · Git · FastAPI
+  | Domain | Technologies | What I use them for |
+  | --- | --- | --- |
+  | Compute & connectivity | Linux, Proxmox, Docker, Nginx, Tailscale | Service hosting, virtualization, traffic routing, and secure access |
+  | Engineering & automation | Python, PowerShell, Git, FastAPI | Repeatable administration, tooling, and integration |
+  | Data & retrieval | PostgreSQL, SQL, pgvector | Structured data and semantic retrieval |
+  | Identity & access | IAM, SSO, Google Workspace, Entra ID | Authentication, authorization, and identity administration |
+  | Observability | Checkmk, Prometheus, Grafana | Health monitoring, metrics, and operational visibility |
+  | Knowledge systems | Obsidian, RAG, documentation | Connecting technical notes and making information discoverable |
 
-![Identity](https://img.shields.io/badge/IDENTITY-bc8cff?style=flat-square&labelColor=0d1117) IAM · SSO · Google Workspace · Entra ID
-
-![Knowledge](https://img.shields.io/badge/KNOWLEDGE-58a6ff?style=flat-square&labelColor=0d1117) Obsidian · RAG · Documentation
+</details>
 
 ## // trajectory
 

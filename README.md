@@ -58,16 +58,40 @@ Current work focuses on safe target validation, SSRF-resistant network checks, a
 
 ## // telemetry
 
-| Vector | Status |
-| --- | --- |
-| Linux | ![operating](https://img.shields.io/badge/OPERATING-7ee7ff?style=flat-square&labelColor=0d1117) |
-| Python | ![building](https://img.shields.io/badge/BUILDING-2f81f7?style=flat-square&labelColor=0d1117) |
-| PowerShell | ![deepening](https://img.shields.io/badge/DEEPENING-6e40c9?style=flat-square&labelColor=0d1117) |
-| Cloud | ![expanding](https://img.shields.io/badge/EXPANDING-58a6ff?style=flat-square&labelColor=0d1117) |
-| Identity | ![engineering](https://img.shields.io/badge/ENGINEERING-bc8cff?style=flat-square&labelColor=0d1117) |
-| RAG | ![experimenting](https://img.shields.io/badge/EXPERIMENTING-6e40c9?style=flat-square&labelColor=0d1117) |
-| Automation | ![always](https://img.shields.io/badge/ALWAYS-2f81f7?style=flat-square&labelColor=0d1117) |
-| Knowledge management | ![forever](https://img.shields.io/badge/FOREVER-7ee7ff?style=flat-square&labelColor=0d1117) |
+<p align="center">
+  <sub>MISSION CONTROL // LIVE GITHUB SIGNALS</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/casual-loops?tab=repositories">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=casual-loops&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=bc8cff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;custom_title=GitHub%20Activity"
+      alt="Casual Loops GitHub activity: stars, commits, pull requests, and issues"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/casual-loops?tab=repositories">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=casual-loops&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=bc8cff&amp;text_color=c9d1d9&amp;card_width=340&amp;custom_title=Language%20Signals"
+      alt="Most used languages across public Casual Loops repositories"
+      height="180"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/casual-loops">
+    <img
+      src="https://streak-stats.demolab.com/?user=casual-loops&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=bc8cff&amp;fire=7ee7ff&amp;currStreakNum=bc8cff&amp;sideNums=58a6ff&amp;currStreakLabel=bc8cff&amp;sideLabels=c9d1d9&amp;dates=8b949e"
+      alt="Casual Loops total contributions, current streak, and longest streak"
+      width="500"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>PUBLIC REPOSITORY SIGNALS // LANGUAGE SHARE IS BASED ON CODE, NOT PROFICIENCY</sub>
+</p>
 
 ## // systems
 

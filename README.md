@@ -58,26 +58,34 @@ Current work focuses on safe target validation, SSRF-resistant network checks, a
 
 ## // telemetry
 
-My work spans more than source code. I build, operate, and document systems to understand how they behave when the real world gets involved.
-
 <p align="center">
-  <img src="./assets/telemetry-console.svg" alt="Mission Control telemetry console showing my engineering focus across infrastructure, identity, automation, observability, and knowledge systems" width="100%" />
+  <img src="./assets/telemetry-console.svg" alt="Casual Loops engineering telemetry masthead" width="100%" />
 </p>
 
-<p align="center"><sub>LIVE FEED // GITHUB CONTRIBUTION ACTIVITY</sub></p>
+<table>
+  <tr>
+    <td width="56%" valign="top">
+      <p><strong>01 // REPOSITORY SIGNALS</strong></p>
+      <a href="https://github.com/casual-loops?tab=repositories">
+        <img src="https://github-stats-extended.vercel.app/api?username=casual-loops&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7ee7ff&amp;text_color=d6e2ee&amp;icon_color=58a6ff&amp;card_width=510&amp;custom_title=Repository%20Signals" alt="Total GitHub stars, commits, pull requests, issues, and contributions to other repositories in the last year" width="100%" />
+      </a>
+      <p><strong>02 // CONTRIBUTION CONTINUITY</strong></p>
+      <a href="https://github.com/casual-loops?tab=overview">
+        <img src="https://streak-stats.demolab.com/?user=casual-loops&amp;hide_border=true&amp;background=0d1117&amp;stroke=324054&amp;ring=7ee7ff&amp;fire=bc8cff&amp;currStreakNum=7ee7ff&amp;sideNums=58a6ff&amp;currStreakLabel=bc8cff&amp;sideLabels=c9d1d9&amp;dates=8b949e" alt="Total contributions, current contribution streak, and longest contribution streak on GitHub" width="100%" />
+      </a>
+    </td>
+    <td width="44%" valign="top">
+      <p><strong>03 // LANGUAGE FOOTPRINT</strong></p>
+      <a href="https://github.com/casual-loops?tab=repositories">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=casual-loops&amp;layout=normal&amp;langs_count=8&amp;card_width=405&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=bc8cff&amp;text_color=d6e2ee&amp;custom_title=Language%20Distribution" alt="Most used public repository languages with percentage breakdowns" width="100%" />
+      </a>
+      <p><sub>Language percentages reflect source code in public, non-fork repositories. They do not measure proficiency.</sub></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/casual-loops?tab=overview">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=casual-loops&amp;bg_color=0d1117&amp;color=bc8cff&amp;line=58a6ff&amp;point=7ee7ff&amp;area_color=58a6ff&amp;area=true&amp;hide_border=true&amp;hide_title=true"
-      alt="GitHub contribution activity timeline for casual-loops"
-      width="100%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>PUBLIC GITHUB ACTIVITY IS ONE SIGNAL, NOT THE WHOLE SYSTEM</sub>
+  <sub>PUBLIC GITHUB SIGNALS // METRICS UPDATE THROUGH THEIR SOURCE SERVICES</sub>
 </p>
 
 ## // systems

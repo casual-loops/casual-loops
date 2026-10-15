@@ -90,17 +90,25 @@ Current work focuses on safe target validation, SSRF-resistant network checks, a
 
 ## // systems
 
-![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-58a6ff?style=flat-square&labelColor=0d1117) Linux · Proxmox · Docker · Nginx · Tailscale
+A conceptual map of the technologies I use across infrastructure, engineering, identity, data, and knowledge work. These are areas of practice, not a diagram of a single deployed environment.
 
-![Observability](https://img.shields.io/badge/OBSERVABILITY-7ee7ff?style=flat-square&labelColor=0d1117) Checkmk · Prometheus · Grafana
+<p align="center">
+  <img src="./assets/systems-atlas.svg" alt="Systems atlas of six engineering domains, featuring Linux, Proxmox, Docker, Nginx, Tailscale, Python, PowerShell, Git, FastAPI, PostgreSQL, SQL, pgvector, IAM, SSO, Google Workspace, Entra ID, Checkmk, Prometheus, Grafana, Obsidian, RAG, and documentation" width="100%" />
+</p>
 
-![Data](https://img.shields.io/badge/DATA-2f81f7?style=flat-square&labelColor=0d1117) PostgreSQL · pgvector · SQL
+<details>
+  <summary><strong>View the stack as text</strong></summary>
 
-![Engineering](https://img.shields.io/badge/ENGINEERING-6e40c9?style=flat-square&labelColor=0d1117) Python · PowerShell · Git · FastAPI
+  | Domain | Technologies | What I use them for |
+  | --- | --- | --- |
+  | Compute & connectivity | Linux, Proxmox, Docker, Nginx, Tailscale | Service hosting, virtualization, traffic routing, and secure access |
+  | Engineering & automation | Python, PowerShell, Git, FastAPI | Repeatable administration, tooling, and integration |
+  | Data & retrieval | PostgreSQL, SQL, pgvector | Structured data and semantic retrieval |
+  | Identity & access | IAM, SSO, Google Workspace, Entra ID | Authentication, authorization, and identity administration |
+  | Observability | Checkmk, Prometheus, Grafana | Health monitoring, metrics, and operational visibility |
+  | Knowledge systems | Obsidian, RAG, documentation | Connecting technical notes and making information discoverable |
 
-![Identity](https://img.shields.io/badge/IDENTITY-bc8cff?style=flat-square&labelColor=0d1117) IAM · SSO · Google Workspace · Entra ID
-
-![Knowledge](https://img.shields.io/badge/KNOWLEDGE-58a6ff?style=flat-square&labelColor=0d1117) Obsidian · RAG · Documentation
+</details>
 
 ## // trajectory
 

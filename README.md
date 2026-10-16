@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/mission-control.svg" alt="Casual Loops mission control banner" width="100%" />
+  <img src="./assets/mission-control.svg" alt="Casual Loops mission control banner reflecting systems, networking, software, cloud, and AI engineering" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Systems engineer and administrator building infrastructure, automation, and knowledge systems to understand how complex systems fit together.</strong>
+  <strong>Engineering across systems, networking, software, cloud, and AI. Building and operating technology to understand how it works.</strong>
 </p>
 
 <p align="center">
@@ -12,9 +12,15 @@
 
 ## // signal
 
-I work across systems administration and engineering, with a focus on infrastructure, identity, automation, monitoring, and knowledge systems.
+My professional foundation is in systems engineering and administration, but my interests extend across the technology stack: computer networking, software development, cloud platforms, and artificial intelligence.
 
-I like projects that make abstract architecture tangible. That usually means building the thing, operating it, documenting it, breaking it, fixing it, and learning what actually matters in the process.
+I learn by making architecture tangible. I design, build, deploy, operate, document, troubleshoot, and improve systems, using the lessons from one discipline to inform the others. My experience spans infrastructure operations and network diagnostics, application development and cloud deployment, and applied retrieval-augmented generation.
+
+<p align="center">
+  <img src="./assets/engineering-domains.svg" alt="Hub-and-spoke signal map showing systems, network, software, cloud, and AI engineering connected to an iterative build, operate, observe, and learn practice" width="100%" />
+</p>
+
+The five domains represent complementary areas of practice and exploration, not equal levels of experience or a fixed career ladder.
 
 > I build things to understand them.
 
@@ -56,6 +62,14 @@ A public outside-in diagnostic tool for checking DNS, TLS, HTTPS, redirects, and
 
 Current work focuses on safe target validation, SSRF-resistant network checks, and turning low-level infrastructure results into clear operational guidance.
 
+### 04 · [Tapestree](https://github.com/tapestreehq)
+
+A product I'm building for lean IT teams to plan, execute, validate, and learn from operational changes. Its application code is currently private; the public organization profile explains the product vision.
+
+`Next.js` `React` `TypeScript` `Supabase` `Azure` `Bicep` `Docker` `GitHub Actions`
+
+Tapestree brings software engineering and cloud operations together, from multi-tenant data and automated testing to identity, container deployments, and infrastructure as code.
+
 ## // telemetry
 
 <p align="center">
@@ -90,48 +104,54 @@ Current work focuses on safe target validation, SSRF-resistant network checks, a
 
 ## // systems
 
-A conceptual map of the technologies I use across infrastructure, engineering, identity, data, and knowledge work. These are areas of practice, not a diagram of a single deployed environment.
+The systems atlas shows the technologies and practices that support my engineering projects. Networking, software, cloud, and AI are distinct interests, while identity, data, security, and observability span the entire stack.
 
 <p align="center">
-  <img src="./assets/systems-atlas.svg" alt="Systems atlas of six engineering domains, featuring Linux, Proxmox, Docker, Nginx, Tailscale, Python, PowerShell, Git, FastAPI, PostgreSQL, SQL, pgvector, IAM, SSO, Google Workspace, Entra ID, Checkmk, Prometheus, Grafana, Obsidian, RAG, and documentation" width="100%" />
+  <img src="./assets/systems-atlas.svg" alt="Technology atlas with six practical groups: systems, networks, software, cloud, AI, and cross-cutting data, identity, security, and observability practices" width="100%" />
 </p>
 
 <details>
   <summary><strong>View the stack as text</strong></summary>
 
-  | Domain | Technologies | What I use them for |
+  | Domain | Technologies and concepts | Application |
   | --- | --- | --- |
-  | Compute & connectivity | Linux, Proxmox, Docker, Nginx, Tailscale | Service hosting, virtualization, traffic routing, and secure access |
-  | Engineering & automation | Python, PowerShell, Git, FastAPI | Repeatable administration, tooling, and integration |
-  | Data & retrieval | PostgreSQL, SQL, pgvector | Structured data and semantic retrieval |
-  | Identity & access | IAM, SSO, Google Workspace, Entra ID | Authentication, authorization, and identity administration |
-  | Observability | Checkmk, Prometheus, Grafana | Health monitoring, metrics, and operational visibility |
-  | Knowledge systems | Obsidian, RAG, documentation | Connecting technical notes and making information discoverable |
+  | Systems | Linux, Proxmox, PowerShell, Docker | Infrastructure operations, automation, virtualization |
+  | Networking | DNS, TLS, HTTP, Tailscale, Nginx | Connectivity, secure access, network diagnostics |
+  | Software | Python, TypeScript, React, Next.js, FastAPI | Application development, APIs, testing |
+  | Cloud | Microsoft Azure, Bicep, Azure Container Apps, GitHub Actions | Infrastructure as code, deployments, cloud operations |
+  | AI | RAG, embeddings, pgvector, retrieval evaluation | Knowledge retrieval and AI application integration |
+  | Cross-cutting | PostgreSQL, IAM, Checkmk, Prometheus, Grafana | Data, identity, observability, operational security |
 
 </details>
 
 ## // trajectory
 
-![Current Vector](https://img.shields.io/badge/CURRENT%20VECTOR-2f81f7?style=flat-square&labelColor=0d1117)
+My development path is intentionally multidisciplinary. These are parallel directions rather than sequential job titles: strengthen infrastructure and networking fundamentals, build and operate production-minded software and cloud platforms, and develop applied AI engineering capability.
 
-```text
-→ deeper Linux administration
-→ Python for systems engineering
-→ PowerShell beyond task automation
-→ cloud and identity architecture
-→ retrieval-augmented generation
-→ infrastructure automation
-```
+<p align="center">
+  <img src="./assets/engineering-trajectory.svg" alt="Three parallel engineering growth tracks: deepen systems and networking, build and operate software and cloud platforms, and explore AI application and platform engineering" width="100%" />
+</p>
+
+The throughline is engineering judgment: understanding the architecture, validating behavior, observing failure modes, and improving reliability as systems grow.
 
 ## // operating principles
 
-|  | Principle |
-| --- | --- |
-| ![01](https://img.shields.io/badge/01-7ee7ff?style=flat-square&labelColor=0d1117) | Prefer evidence over assumptions. |
-| ![02](https://img.shields.io/badge/02-2f81f7?style=flat-square&labelColor=0d1117) | Automate repeatable work, document the edge cases. |
-| ![03](https://img.shields.io/badge/03-6e40c9?style=flat-square&labelColor=0d1117) | Monitoring should explain a system, not merely report that it exists. |
-| ![04](https://img.shields.io/badge/04-7ee7ff?style=flat-square&labelColor=0d1117) | Good infrastructure is understandable infrastructure. |
-| ![05](https://img.shields.io/badge/05-2f81f7?style=flat-square&labelColor=0d1117) | The fastest way to learn a system is often to own its failure modes. |
+A few rules I return to when designing, operating, and improving systems.
+
+<p align="center">
+  <img src="./assets/operating-principles.svg" alt="Five engineering operating principles presented as mission-control protocol cards: observe, automate, monitor, clarify, and learn from failure" width="100%" />
+</p>
+
+<details>
+  <summary><strong>View operating principles as text</strong></summary>
+
+  1. **Observe first:** Prefer evidence over assumptions.
+  2. **Automate with intent:** Automate repeatable work, document the edge cases.
+  3. **Meaningful monitoring:** Monitoring should explain a system, not merely report that it exists.
+  4. **Design for clarity:** Good infrastructure is understandable infrastructure.
+  5. **Own the failure modes:** The fastest way to learn a system is often to own its failure modes.
+
+</details>
 
 <p align="center">
   <img src="./assets/orbit-divider.svg" alt="Orbital telemetry divider" width="100%" />
@@ -139,7 +159,7 @@ A conceptual map of the technologies I use across infrastructure, engineering, i
 
 ## // off orbit
 
-When I am not working on infrastructure or automation, I keep circling back to astronomy, mathematics, and writing.
+Outside engineering projects, I keep circling back to astronomy, mathematics, and writing.
 
 I also enjoy taking my dog, Marvel, on adventures at nearby parks, trails, and lakes.
 
@@ -148,5 +168,5 @@ I also enjoy taking my dog, Marvel, on adventures at nearby parks, trails, and l
 If you are here because of one of the projects above, open an issue in the relevant repository. I am always interested in comparing implementation choices, operational lessons, and better ways to design the system.
 
 <p align="center">
-  <sub>casual-loops // systems · knowledge · iteration</sub>
+  <sub>casual-loops // engineering · exploration · iteration</sub>
 </p>

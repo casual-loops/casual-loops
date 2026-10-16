@@ -126,7 +126,7 @@
         <circle cx="71" cy="311" r="3.5"/>
       </g>
 
-      <g fill="#cbd9e8" font-size="13.5" font-weight="400">
+      <g fill="#cbd9e8" font-size="14.2" font-weight="400">
         <text x="84" y="228">
           Linux and infrastructure operations
         </text>
@@ -180,7 +180,7 @@
         <circle cx="457" cy="311" r="3.5"/>
       </g>
 
-      <g fill="#cbd9e8" font-size="13.5" font-weight="400">
+      <g fill="#cbd9e8" font-size="14.2" font-weight="400">
         <text x="470" y="228">
           Software architecture and testing
         </text>
@@ -234,7 +234,7 @@
         <circle cx="843" cy="320" r="3.5"/>
       </g>
 
-      <g fill="#cbd9e8" font-size="13.5" font-weight="400">
+      <g fill="#cbd9e8" font-size="14.2" font-weight="400">
         <text x="856" y="224">
           AI application and platform
         </text>

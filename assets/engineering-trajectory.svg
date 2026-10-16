@@ -1,1 +1,266 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="title desc"><title id="title">Engineering Trajectory</title><desc id="desc">Parallel engineering growth: deepen systems and networking, deliver software and cloud platforms, and explore AI engineering through applied projects.</desc><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset=".55" stop-color="#121e31"/><stop offset="1" stop-color="#0c1320"/></linearGradient><linearGradient id="beam"><stop stop-color="#58a6ff"/><stop offset=".52" stop-color="#7ee7ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263c55" stroke-width=".6" opacity=".34"/></pattern></defs><rect width="1200" height="440" rx="18" fill="url(#bg)"/><rect width="1200" height="440" rx="18" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="438" rx="17" fill="none" stroke="#34465c"/><path d="M22 3H1178" stroke="url(#beam)" stroke-width="3"/><text x="44" y="49" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="23" font-weight="700" text-anchor="start" letter-spacing="0">TRAJECTORY</text><text x="268" y="49" fill="#7ee7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="400" text-anchor="start" letter-spacing="2">// EXPAND THE PRACTICE</text><text x="1155" y="49" fill="#9aacc2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="400" text-anchor="end" letter-spacing="0">PARALLEL DEVELOPMENT / NO FINISH LINE</text><path d="M44 74H1156" stroke="#34465c"/><rect x="43" y="112" width="344" height="254" rx="12" fill="#142237" stroke="#7ee7ff" stroke-opacity=".65" stroke-width="1.5"/><path d="M57 113h58" stroke="#7ee7ff" stroke-width="2.5"/><text x="62" y="148" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="700" text-anchor="start" letter-spacing="0">01 / DEEPEN</text><text x="62" y="174" fill="#7ee7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" text-anchor="start" letter-spacing="1.3">FOUNDATIONS</text><path d="M62 190h306" stroke="#34465c"/><circle cx="71" cy="223" r="3.5" fill="#7ee7ff"/><text x="84" y="228" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">Linux and infrastructure operations</text><circle cx="71" cy="267" r="3.5" fill="#7ee7ff"/><text x="84" y="272" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">Networking, protocols, and security</text><circle cx="71" cy="311" r="3.5" fill="#7ee7ff"/><text x="84" y="316" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">Python and PowerShell fluency</text><rect x="429" y="112" width="344" height="254" rx="12" fill="#142237" stroke="#58a6ff" stroke-opacity=".65" stroke-width="1.5"/><path d="M443 113h58" stroke="#58a6ff" stroke-width="2.5"/><text x="448" y="148" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="700" text-anchor="start" letter-spacing="0">02 / BUILD &amp; OPERATE</text><text x="448" y="174" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" text-anchor="start" letter-spacing="1.3">ENGINEERING SYSTEMS</text><path d="M448 190h306" stroke="#34465c"/><circle cx="457" cy="223" r="3.5" fill="#58a6ff"/><text x="470" y="228" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">Software architecture and testing</text><circle cx="457" cy="267" r="3.5" fill="#58a6ff"/><text x="470" y="272" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">Azure platforms, IaC, and deployment</text><circle cx="457" cy="311" r="3.5" fill="#58a6ff"/><text x="470" y="316" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">Observability, resilience, and scale</text><rect x="815" y="112" width="344" height="254" rx="12" fill="#142237" stroke="#bc8cff" stroke-opacity=".65" stroke-width="1.5"/><path d="M829 113h58" stroke="#bc8cff" stroke-width="2.5"/><text x="834" y="148" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="700" text-anchor="start" letter-spacing="0">03 / EXPLORE</text><text x="834" y="174" fill="#bc8cff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" text-anchor="start" letter-spacing="1.3">NEW CAPABILITIES</text><path d="M834 190h306" stroke="#34465c"/><circle cx="843" cy="223" r="3.5" fill="#bc8cff"/><text x="856" y="228" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">AI application and platform engineering</text><circle cx="843" cy="267" r="3.5" fill="#bc8cff"/><text x="856" y="272" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">RAG, retrieval, and evaluation</text><circle cx="843" cy="311" r="3.5" fill="#bc8cff"/><text x="856" y="316" fill="#cbd9e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.1" font-weight="400" text-anchor="start" letter-spacing="0">Model integration and operations</text><path d="M44 387H1156" stroke="#34465c"/><text x="600" y="411" fill="#d2e0f0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500" text-anchor="middle" letter-spacing="0">THE GOAL IS CONNECTED ENGINEERING JUDGMENT, NOT A COLLECTION OF TITLES.</text></svg>
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1200 440"
+  width="1200"
+  height="440"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Engineering Trajectory</title>
+  <desc id="desc">
+    Parallel engineering growth: deepen systems and networking,
+    deliver software and cloud platforms, and explore AI engineering
+    through applied projects.
+  </desc>
+
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0d1117"/>
+      <stop offset=".55" stop-color="#121e31"/>
+      <stop offset="1" stop-color="#0c1320"/>
+    </linearGradient>
+
+    <linearGradient id="beam">
+      <stop stop-color="#58a6ff"/>
+      <stop offset=".52" stop-color="#7ee7ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+
+    <pattern
+      id="grid"
+      width="32"
+      height="32"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M32 0H0V32"
+        fill="none"
+        stroke="#263c55"
+        stroke-width=".6"
+        opacity=".34"
+      />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="440" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="18" fill="url(#grid)"/>
+  <rect
+    x="1"
+    y="1"
+    width="1198"
+    height="438"
+    rx="17"
+    fill="none"
+    stroke="#34465c"
+  />
+  <path d="M22 3H1178" stroke="url(#beam)" stroke-width="3"/>
+
+  <g
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    text-anchor="start"
+  >
+    <!-- Header -->
+    <text
+      x="44" y="49"
+      fill="#f0f6fc"
+      font-size="23"
+      font-weight="700"
+    >TRAJECTORY</text>
+
+    <text
+      x="268" y="49"
+      fill="#7ee7ff"
+      font-size="13"
+      letter-spacing="2"
+    >// EXPAND THE PRACTICE</text>
+
+    <text
+      x="1155" y="49"
+      fill="#9aacc2"
+      font-size="12"
+      text-anchor="end"
+    >PARALLEL DEVELOPMENT / NO FINISH LINE</text>
+
+    <path d="M44 74H1156" stroke="#34465c"/>
+
+    <!-- 01: Deepen Foundations -->
+    <g>
+      <rect
+        x="43" y="112"
+        width="344" height="254"
+        rx="12"
+        fill="#142237"
+        stroke="#7ee7ff"
+        stroke-opacity=".65"
+        stroke-width="1.5"
+      />
+      <path
+        d="M57 113h58"
+        stroke="#7ee7ff"
+        stroke-width="2.5"
+      />
+
+      <text
+        x="62" y="148"
+        fill="#f0f6fc"
+        font-size="18"
+        font-weight="700"
+      >01 / DEEPEN</text>
+
+      <text
+        x="62" y="174"
+        fill="#7ee7ff"
+        font-size="12"
+        font-weight="500"
+        letter-spacing="1.3"
+      >FOUNDATIONS</text>
+
+      <path d="M62 190h306" stroke="#34465c"/>
+
+      <!-- Body -->
+      <g fill="#7ee7ff">
+        <circle cx="71" cy="223" r="3.5"/>
+        <circle cx="71" cy="267" r="3.5"/>
+        <circle cx="71" cy="311" r="3.5"/>
+      </g>
+
+      <g fill="#cbd9e8" font-size="13.5" font-weight="400">
+        <text x="84" y="228">
+          Linux and infrastructure operations
+        </text>
+        <text x="84" y="272">
+          Networking, protocols, and security
+        </text>
+        <text x="84" y="316">
+          Python and PowerShell fluency
+        </text>
+      </g>
+    </g>
+
+    <!-- 02: Build and Operate -->
+    <g>
+      <rect
+        x="429" y="112"
+        width="344" height="254"
+        rx="12"
+        fill="#142237"
+        stroke="#58a6ff"
+        stroke-opacity=".65"
+        stroke-width="1.5"
+      />
+      <path
+        d="M443 113h58"
+        stroke="#58a6ff"
+        stroke-width="2.5"
+      />
+
+      <text
+        x="448" y="148"
+        fill="#f0f6fc"
+        font-size="18"
+        font-weight="700"
+      >02 / BUILD &amp; OPERATE</text>
+
+      <text
+        x="448" y="174"
+        fill="#58a6ff"
+        font-size="12"
+        font-weight="500"
+        letter-spacing="1.3"
+      >ENGINEERING SYSTEMS</text>
+
+      <path d="M448 190h306" stroke="#34465c"/>
+
+      <!-- Body -->
+      <g fill="#58a6ff">
+        <circle cx="457" cy="223" r="3.5"/>
+        <circle cx="457" cy="267" r="3.5"/>
+        <circle cx="457" cy="311" r="3.5"/>
+      </g>
+
+      <g fill="#cbd9e8" font-size="13.5" font-weight="400">
+        <text x="470" y="228">
+          Software architecture and testing
+        </text>
+        <text x="470" y="272">
+          Azure platforms, IaC, and deployment
+        </text>
+        <text x="470" y="316">
+          Observability, resilience, and scale
+        </text>
+      </g>
+    </g>
+
+    <!-- 03: Explore New Capabilities -->
+    <g>
+      <rect
+        x="815" y="112"
+        width="344" height="254"
+        rx="12"
+        fill="#142237"
+        stroke="#bc8cff"
+        stroke-opacity=".65"
+        stroke-width="1.5"
+      />
+      <path
+        d="M829 113h58"
+        stroke="#bc8cff"
+        stroke-width="2.5"
+      />
+
+      <text
+        x="834" y="148"
+        fill="#f0f6fc"
+        font-size="18"
+        font-weight="700"
+      >03 / EXPLORE</text>
+
+      <text
+        x="834" y="174"
+        fill="#bc8cff"
+        font-size="12"
+        font-weight="500"
+        letter-spacing="1.3"
+      >NEW CAPABILITIES</text>
+
+      <path d="M834 190h306" stroke="#34465c"/>
+
+      <!-- Body -->
+      <g fill="#bc8cff">
+        <circle cx="843" cy="220" r="3.5"/>
+        <circle cx="843" cy="276" r="3.5"/>
+        <circle cx="843" cy="320" r="3.5"/>
+      </g>
+
+      <g fill="#cbd9e8" font-size="13.5" font-weight="400">
+        <text x="856" y="224">
+          AI application and platform
+        </text>
+        <text x="856" y="243">
+          engineering
+        </text>
+        <text x="856" y="281">
+          RAG, retrieval, and evaluation
+        </text>
+        <text x="856" y="325">
+          Model integration and operations
+        </text>
+      </g>
+    </g>
+
+    <!-- Footer -->
+    <path d="M44 387H1156" stroke="#34465c"/>
+
+    <text
+      x="600" y="411"
+      fill="#d2e0f0"
+      font-size="14"
+      font-weight="500"
+      text-anchor="middle"
+    >
+      THE GOAL IS CONNECTED ENGINEERING JUDGMENT, NOT A COLLECTION OF TITLES.
+    </text>
+  </g>
+</svg>

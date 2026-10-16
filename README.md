@@ -136,13 +136,22 @@ The throughline is engineering judgment: understanding the architecture, validat
 
 ## // operating principles
 
-|  | Principle |
-| --- | --- |
-| ![01](https://img.shields.io/badge/01-7ee7ff?style=flat-square&labelColor=0d1117) | Prefer evidence over assumptions. |
-| ![02](https://img.shields.io/badge/02-2f81f7?style=flat-square&labelColor=0d1117) | Automate repeatable work, document the edge cases. |
-| ![03](https://img.shields.io/badge/03-6e40c9?style=flat-square&labelColor=0d1117) | Monitoring should explain a system, not merely report that it exists. |
-| ![04](https://img.shields.io/badge/04-7ee7ff?style=flat-square&labelColor=0d1117) | Good infrastructure is understandable infrastructure. |
-| ![05](https://img.shields.io/badge/05-2f81f7?style=flat-square&labelColor=0d1117) | The fastest way to learn a system is often to own its failure modes. |
+A few rules I return to when designing, operating, and improving systems.
+
+<p align="center">
+  <img src="./assets/operating-principles.svg" alt="Five engineering operating principles presented as mission-control protocol cards: observe, automate, monitor, clarify, and learn from failure" width="100%" />
+</p>
+
+<details>
+  <summary><strong>View operating principles as text</strong></summary>
+
+  1. **Observe first:** Prefer evidence over assumptions.
+  2. **Automate with intent:** Automate repeatable work, document the edge cases.
+  3. **Meaningful monitoring:** Monitoring should explain a system, not merely report that it exists.
+  4. **Design for clarity:** Good infrastructure is understandable infrastructure.
+  5. **Own the failure modes:** The fastest way to learn a system is often to own its failure modes.
+
+</details>
 
 <p align="center">
   <img src="./assets/orbit-divider.svg" alt="Orbital telemetry divider" width="100%" />

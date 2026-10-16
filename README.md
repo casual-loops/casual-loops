@@ -62,7 +62,7 @@ A public outside-in diagnostic tool for checking DNS, TLS, HTTPS, redirects, and
 
 Current work focuses on safe target validation, SSRF-resistant network checks, and turning low-level infrastructure results into clear operational guidance.
 
-### 04 · [Tapestree](https://github.com/tapestreehq)
+### 04 · [tapestree](https://github.com/tapestreehq)
 
 A product I'm building for lean IT teams to plan, execute, validate, and learn from operational changes. Its application code is currently private; the public organization profile explains the product vision.
 
